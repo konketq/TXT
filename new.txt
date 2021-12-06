@@ -1,0 +1,4 @@
+Name: Kate
+Age: 25
+Pets:0
+Salary:500$
